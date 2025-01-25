@@ -8,7 +8,7 @@
 &nbsp;Java&nbsp; | &nbsp;JDBC&nbsp; | &nbsp;Servlets&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp;
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp;
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;JavaScript&nbsp;
 
 📁 **Database:**
 &nbsp;MySQL&nbsp; | &nbsp;Oracle&nbsp; 
